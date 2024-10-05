@@ -7,6 +7,7 @@ import {
     Chart as ChartJS,
     CategoryScale,
     LinearScale,
+    BarController,
     BarElement,
     PointElement,
     LineElement,
@@ -18,6 +19,7 @@ import {
 ChartJS.register(
     CategoryScale,
     LinearScale,
+    BarController,
     BarElement,
     PointElement,
     LineElement,
